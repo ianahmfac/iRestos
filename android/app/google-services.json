@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "779474113921",
+    "project_id": "irestos-83ff3",
+    "storage_bucket": "irestos-83ff3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779474113921:android:fc9683a925768e5d85c480",
+        "android_client_info": {
+          "package_name": "com.ianahmfac.irestos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "779474113921-qiv4dmj02qk1qdfagauglu5k9vvs22je.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxaRaNlWyOnne1a23qOKleGVVcEYnMEw0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "779474113921-qiv4dmj02qk1qdfagauglu5k9vvs22je.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
